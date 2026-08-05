@@ -1,0 +1,48 @@
+# ==========================================
+# (Data & Datasets)
+# ==========================================
+*.csv
+*.xlsx
+*.xls
+*.json
+*.sql
+*.sqlite
+*.db
+data/
+datasets/
+Student_Performance_Prediction/data/
+
+# ==========================================
+# (Python Virtual Environment)
+# ==========================================
+venv/
+.venv/
+env/
+.env
+ENV/
+bin/
+lib/
+share/
+pyvenv.cfg
+
+# ==========================================
+# Jupyter Notebooks 
+# ==========================================
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+__pycache__/
+*.py[cod]
+*$*.py
+.pytest_cache/
+
+# ==========================================
+# IDE (VS Code & Visual Studio)
+# ==========================================
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln
+.DS_Store
+Thumbs.db
